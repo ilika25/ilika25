@@ -18,10 +18,10 @@ I'm a passionate developer who loves building impactful web applications and sol
 ### 🛠️ Tech Stack
 
 **Languages:**  
-`C++` `C`  `Python` `JavaScript` 
+`C++` `C`  `Python` 
 
 **Web Dev:**  
-`HTML` `CSS` `React` `Node.js` `Express.js` `MongoDB` `Prisma` `Bootstrap`
+`HTML` `CSS` `JavaScript` `React` `Node.js` `Express.js` `MongoDB` `Prisma` `Bootstrap`
 
 **Tools & Others:**  
 `Git` `GitHub` `VS Code` `Socket.IO`  `OpenGL`
