@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Ilika!
 
-🎓 Pre-final year CSE undergrad  
+🎓 Final year CSE undergrad  
 💻 Full Stack Web Developer | 🤖 Tech Explorer | 🧠 Problem Solver  
 
 ---
